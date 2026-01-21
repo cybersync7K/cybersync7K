@@ -27,6 +27,8 @@ $ cat knowledge_base.json
 > [
     "C# / .NET",
     "Python",
+    "Golang",
+    "Java",
     "Docker",
     "Linux",
     "Shell Script",
